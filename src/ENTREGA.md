@@ -42,3 +42,7 @@ Se agregó ordenamiento en las columnas de la tabla usando estado para controlar
 ## Requisito 16
 
 Se implementó modo oscuro y claro con persistencia en localStorage.
+
+## Requisito 17
+
+Se creó un panel de estadísticas en tiempo real usando useMemo para optimizar los cálculos.

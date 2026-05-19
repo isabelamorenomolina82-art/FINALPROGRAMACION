@@ -26,3 +26,7 @@ Incluye uso de Hooks, componentes reutilizables, localStorage, búsqueda, pagina
 ## Requisito 12
 
 Se implementó una búsqueda en tiempo real que filtra únicamente por el nombre del jugador. También se agregó debounce de 300ms usando useEffect.
+
+## Requisito 13
+
+Se agregaron botones para pintar filas pares, pintar filas impares y limpiar el resaltado de colores.

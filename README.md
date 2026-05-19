@@ -1,16 +1,65 @@
-# React + Vite
+# Basketball Final - Parcial Programación
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 1. Descripción del proyecto
 
-Currently, two official plugins are available:
+Este proyecto corresponde al trabajo final de programación asignado en la opción de **Basketball**.  
+La aplicación fue desarrollada con **React + Vite** y permite visualizar una tabla de jugadores con funcionalidades interactivas usando Hooks de React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+El objetivo principal del proyecto es demostrar el uso de conceptos fundamentales como:
 
-## React Compiler
+- `useState`
+- `useEffect`
+- `useMemo`
+- Props
+- Componentes reutilizables
+- Renderizado condicional
+- Manejo de eventos
+- Persistencia con `localStorage`
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+La interfaz está inspirada en un dashboard deportivo de basketball, con marcador, estadísticas, búsqueda, tabla de jugadores, favoritos, historial de búsquedas, paginación, ordenamiento y modal de detalles.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 2. Integrante
+
+**Nombre:** ISABELA MORENO MOLINA
+
+---
+
+## 3. Tecnologías utilizadas
+
+- React
+- Vite
+- JavaScript
+- HTML
+- CSS
+- Git
+- GitHub
+- Netlify
+
+---
+
+## 4. Link del proyecto publicado
+
+**Deploy en Netlify:**
+
+https://clinquant-frangollo-d44af9.netlify.app
+
+---
+
+## 5. Link del repositorio
+
+**Repositorio en GitHub:**
+
+https://github.com/isabelamorenomolina82-art/FINALPROGRAMACION
+
+---
+
+## 6. Instrucciones de instalación
+
+Para ejecutar el proyecto localmente se deben seguir estos pasos:
+
+### Clonar el repositorio
+
+```bash
+git clone https://github.com/isabelamorenomolina82-art/FINALPROGRAMACION.git

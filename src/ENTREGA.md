@@ -50,3 +50,7 @@ Se creó un panel de estadísticas en tiempo real usando useMemo para optimizar 
 ## Requisito 18
 
 Se implementó un modal de detalles que se abre al hacer clic sobre cualquier fila de jugador.
+
+## Requisito 19
+
+Se implementó un sistema de favoritos con estrellas, contador y persistencia en localStorage.

@@ -21,3 +21,8 @@ Incluye uso de Hooks, componentes reutilizables, localStorage, búsqueda, pagina
 - Modal de detalles.
 - Sistema de favoritos.
 - Componentes reutilizables.
+
+
+## Requisito 12
+
+Se implementó una búsqueda en tiempo real que filtra únicamente por el nombre del jugador. También se agregó debounce de 300ms usando useEffect.

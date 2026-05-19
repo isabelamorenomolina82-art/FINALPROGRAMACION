@@ -38,3 +38,7 @@ Se implementó paginación dinámica con selector de 5, 10 y 20 registros por p�
 ## Requisito 15
 
 Se agregó ordenamiento en las columnas de la tabla usando estado para controlar columna activa y dirección.
+
+## Requisito 16
+
+Se implementó modo oscuro y claro con persistencia en localStorage.

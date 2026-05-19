@@ -34,3 +34,7 @@ Se agregaron botones para pintar filas pares, pintar filas impares y limpiar el 
 ## Requisito 14
 
 Se implementó paginación dinámica con selector de 5, 10 y 20 registros por página.
+
+## Requisito 15
+
+Se agregó ordenamiento en las columnas de la tabla usando estado para controlar columna activa y dirección.

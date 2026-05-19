@@ -46,3 +46,7 @@ Se implementó modo oscuro y claro con persistencia en localStorage.
 ## Requisito 17
 
 Se creó un panel de estadísticas en tiempo real usando useMemo para optimizar los cálculos.
+
+## Requisito 18
+
+Se implementó un modal de detalles que se abre al hacer clic sobre cualquier fila de jugador.

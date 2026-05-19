@@ -54,3 +54,7 @@ Se implementó un modal de detalles que se abre al hacer clic sobre cualquier fi
 ## Requisito 19
 
 Se implementó un sistema de favoritos con estrellas, contador y persistencia en localStorage.
+
+## Requisito 20
+
+Se implementó historial de búsquedas con las últimas cinco búsquedas y botón para limpiar historial.

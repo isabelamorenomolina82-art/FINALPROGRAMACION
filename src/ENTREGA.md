@@ -1,6 +1,6 @@
 # Entrega Parcial Final
 
-Nombre: ISABELA MORENO MOLINA
+Nombre: ISABELA MORENO MOLINA Y CRISTIAN OSPINA
 
 Proyecto: Basketball Final con React y Vite.
 

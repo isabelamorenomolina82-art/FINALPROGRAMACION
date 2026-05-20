@@ -18,4 +18,6 @@ export default defineConfig([
       parserOptions: { ecmaFeatures: { jsx: true } },
     },
   },
-])
+]) 
+
+// No es una parte visual de la pagina es una configuracion para que el codigo este bine escrito
